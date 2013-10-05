@@ -1,0 +1,3 @@
+from Polynomial import Polynomial
+
+interpolateLagrange
